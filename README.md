@@ -1,6 +1,4 @@
-- 👋 Hi, I’m soundarya
-- 👀 I’m interested in artificial intelligence 
-- 🌱 I’m currently learning python
+
 
 
 <!---
